@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Abdullah12has/Abdullah12has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +15,15 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
-<!--### Hi there 👋-->
-<h3 align="center">
+
+<h1 align="center">
   Welcome to Abdullah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;Blockchain+Developer;">
-</p>
+</h3>
 
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
