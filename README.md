@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-🔭 I’m currently working on Everva Web Services 
+🔭 I’m currently working on Everva Web Services <br>
 🌱 I’m currently learning Blockchain
 </p>
 ## GitHub Overview
