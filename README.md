@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 🔭 I’m currently working on Everva Web Services <br>
-🌱 I’m currently learning Blockchain
+🌱 I’m currently learning Blockchain Technologies
 </p>
 
 <!-- <p align="center">
