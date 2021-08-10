@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;Blockchain+Developer;">
 </h3>
 
-<p align="right">
+<p align="left">
 🔭 I’m currently working on Everva Web Services <br>
 🌱 I’m currently learning Blockchain
 </p>
