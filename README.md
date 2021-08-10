@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Welcome to Abdullah's profile!
+  Welcome to Abdullah's Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -25,14 +25,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;Blockchain+Developer;">
 </h3>
 
-## Connect with me:
-
-[<img align="left" alt="https://www.linkedin.com/in/syed-abdullah-hassan-98b365157/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<br /> 
-
 ## Languages
 
-<!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
+![C](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
