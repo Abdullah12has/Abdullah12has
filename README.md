@@ -16,22 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-![GIF](https://github.com/iamraufu/iamraufu/blob/main/Assets/banner.jpg)
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:raufu.dev@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/iamraufu)
-<img src="https://komarev.com/ghpvc/?username=iamraufu">
-<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
-
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 <!--### Hi there 👋-->
 <h3 align="center">
-  Welcome to Eftykhar Rahman's profile!
+  Welcome to Abdullah's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;Self+taught+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;Blockchain+Developer;">
 </p>
 
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
