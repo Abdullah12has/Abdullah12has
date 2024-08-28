@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 🔭 I’m currently working @ Everva <br>
-🌱 Blockchain Developer
+🌱 Frontend Developer
 </p>
 
 <!-- <p align="center">
