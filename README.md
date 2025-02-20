@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;Blockchain+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;AI & ML+Engineer;">
 </h3>
 
 <p align="left">
 🔭 I’m currently working @ Everva <br>
-🌱 Frontend Developer
+🌱 Fullstack Software Engineer
+🌱 Machine Learning and AI Engineer. 
+Working on Large Language Models and 3D reconstruction using Computer Vision techniques like Gaussian Splatting.
 </p>
 
 <!-- <p align="center">
