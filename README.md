@@ -48,13 +48,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah12has&theme=onedark&margin-w=5&margin-h=5" />
-</p>
-
----
-
 ## 🔗 **Connect With Me**
 📩 **Email:** abdullah12.hassan7@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/syed02](https://www.linkedin.com/in/syed02)  
