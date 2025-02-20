@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;AI&ML+Engineer;">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&color=F7A0A0&lines=Full+Stack+Web+Developer;AI+ML+Engineer;">
 </h3>
 
 <p align="left">
