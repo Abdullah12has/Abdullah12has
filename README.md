@@ -10,7 +10,6 @@
 ---
 
 ## 🚀 **About Me**
-- 🎓 **MSc in Computer Science, AI & Applied Computing** @ *University of Oulu, Finland* (2024-2026)
 - 🤖 **Machine Learning & Software Engineer** | **Multi-Agent LLMs & Distributed Systems Enthusiast**
 - 🔬 Passionate about **AI-powered Web & Mobile Applications, Machine Vision, 3D Reconstruction, & Cloud AI**
 - 💡 Open-source contributor | Always learning & innovating 🚀
